@@ -11,6 +11,7 @@ const logger = {
 
 
 export default class TintedTags extends Plugin {
+    
     async onload() {
     }
 
